@@ -1,0 +1,9 @@
+C:\Users\gabriel\source\repos\OnboardingProcess\Onboarding.API\Repositories\bin\Debug\Repositories.dll
+C:\Users\gabriel\source\repos\OnboardingProcess\Onboarding.API\Repositories\bin\Debug\Repositories.pdb
+C:\Users\gabriel\source\repos\OnboardingProcess\Onboarding.API\Repositories\bin\Debug\Entities.dll
+C:\Users\gabriel\source\repos\OnboardingProcess\Onboarding.API\Repositories\bin\Debug\Entities.pdb
+C:\Users\gabriel\source\repos\OnboardingProcess\Onboarding.API\Repositories\obj\Debug\Repositories.csprojAssemblyReference.cache
+C:\Users\gabriel\source\repos\OnboardingProcess\Onboarding.API\Repositories\obj\Debug\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\source\repos\OnboardingProcess\Onboarding.API\Repositories\obj\Debug\Repositories.csproj.CopyComplete
+C:\Users\gabriel\source\repos\OnboardingProcess\Onboarding.API\Repositories\obj\Debug\Repositories.dll
+C:\Users\gabriel\source\repos\OnboardingProcess\Onboarding.API\Repositories\obj\Debug\Repositories.pdb
