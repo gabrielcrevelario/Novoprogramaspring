@@ -1,0 +1,6 @@
+C:\Users\gabriel\source\repos\OnboardingProcess\Onboarding.API\Entities\bin\Debug\Entities.dll
+C:\Users\gabriel\source\repos\OnboardingProcess\Onboarding.API\Entities\bin\Debug\Entities.pdb
+C:\Users\gabriel\source\repos\OnboardingProcess\Onboarding.API\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\gabriel\source\repos\OnboardingProcess\Onboarding.API\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\source\repos\OnboardingProcess\Onboarding.API\Entities\obj\Debug\Entities.dll
+C:\Users\gabriel\source\repos\OnboardingProcess\Onboarding.API\Entities\obj\Debug\Entities.pdb
